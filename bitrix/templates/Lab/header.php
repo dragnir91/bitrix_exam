@@ -38,7 +38,7 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)
                 </div>
                 <div class="main-phone-block">
                     <a href="tel:84952128506" class="phone">8 (495) 212-85-06</a>
-                    <div class="shedule">время работы с 9-00 до 18-00</div>
+                    <div class="shedule">Помидор время работы с 9-00 до 18-00</div>
                 </div>
                 <div class="actions-block">
                     <form action="/" class="main-frm-search">
